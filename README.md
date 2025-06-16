@@ -1,33 +1,33 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Animations-CSS%20&%20JS-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Glassmorphism-Aesthetic-lightblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Glass%20Design-Frosted%20UI-lightblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interactive-Hover%20Animations-blueviolet?style=for-the-badge" />
 
 ---
 
-# ✨ JavaScript Exam Resource
-
-🧠 **Your Ultimate JavaScript Practice Companion**
+# JavaScript Exam Resource
 
 ---
 
-> This project is a comprehensive JavaScript exam resource, built with a **modern ES6+** codebase and a **clean, organized structure**.  
-> It is crafted to help you prepare for exams or interviews through **practical examples** and **hands-on exercises**.
+This project is a **comprehensive JavaScript exam preparation resource**.
+
+Built with modern **ES6+ syntax** and a clean modular architecture, it is designed to help you master JavaScript concepts through **practical examples** and **interactive exercises**.
 
 ---
 
-📁 **Features:**
+## Features
 
-- ✅ Modular ES6+ syntax  
-- ✅ Clean folder structure  
-- ✅ Practical code challenges  
-- ✅ Ideal for interviews or exams  
-- ✅ Perfect for beginners and intermediate devs
+- Modular JavaScript (ES6+)
+- Hands-on code challenges
+- Built-in structure for easy navigation
+- Ready-to-use for interviews, exams, or study groups
 
 ---
 
-🚀 **Getting Started:**
+## Getting Started
+
+Clone and set up the project locally:
 
 ```bash
 git clone https://github.com/your-username/js-exam-resource
