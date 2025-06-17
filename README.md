@@ -1,5 +1,7 @@
 # JavaScript Exam 
 
+# Names:
+**KAWACU RUGIRANEZA Arnaud Kennedy**
 
 This project is a **Student Grades Tracker**.
 
